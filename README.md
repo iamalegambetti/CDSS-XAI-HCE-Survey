@@ -1,6 +1,4 @@
 # CDSS-XAI-HCE-Survey
-Additional notes for CDSS XAI HCE Survey Paper.
-
 
 We illustrate how we queried the ACM Digital Library, Web of Science and PubMed. We started with a general selection of keywords covering the healthcare, XAI, and HCE main fields as in \textbf{Query 1}. \\
 
